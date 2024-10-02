@@ -1,0 +1,15 @@
+[package]
+name = "animation"
+version = "0.1.0"
+authors = ["Bohdan Nosov <BohdanDev811@hotmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Animations with Rust"
+readme = "README.md"
+homepage = "https://github.com/BohdanDev811/animator_rust"
+repository = "https://github.com/BohdanDev811/animator_rust"
+keywords = ["animations"]
+categories = ["graphics"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
